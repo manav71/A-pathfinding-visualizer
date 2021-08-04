@@ -1,4 +1,4 @@
-# A-pathfinding-visualizer
+# A*-pathfinding-visualizer
 This is a project build using pygame which helps the user visualize the working process of A* pathfinding algorithm.
 
 
